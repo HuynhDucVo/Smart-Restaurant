@@ -27,7 +27,6 @@ A comprehensive, modern restaurant management solution built with React, Tailwin
 
 ## 🖼️ Feature Screenshots
 
-> **📸 Add your screenshots here to showcase the beautiful interface!**
 
 ### **Dashboard Overview**
 ![Dashboard](screenshots/dashboard.png)
@@ -282,9 +281,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- **Email**: [your-email@example.com]
-- **Issues**: [GitHub Issues](https://github.com/yourusername/my-restaurant/issues)
-- **Documentation**: [Project Wiki](https://github.com/yourusername/my-restaurant/wiki)
+- **Email**: kenjivo1298@gmail.com
+- **Github**: https://github.com/HuynhDucVo
+- **Linkedin**: https://www.linkedin.com/in/huynh-duc-vo/
 
 ## 🙏 Acknowledgments
 
